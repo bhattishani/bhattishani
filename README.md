@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhattishani
+- 👋 Hi, I’m @bhatti__shani
 - 👀 I’m interested in php,html,css,javascript,jquery,firebase,mysql
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on php based projects
